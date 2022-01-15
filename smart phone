@@ -24,8 +24,8 @@ class Codechef
 	{
 		// your code goes here
 		Scanner sc = new Scanner(System.in);
-		List<Integer> li = new ArrayList<>();
-		int N = sc.nextInt();
+		List<Long> li = new ArrayList<Long>();
+		long N = sc.nextInt();
 		for(int i =0;i<N;i++){
 		    li.add(sc.nextInt());
 		}
